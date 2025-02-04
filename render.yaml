@@ -21,9 +21,9 @@ services:
   #maxShutdownDelaySeconds: 300
 
   # Sane defaults
-  scaling:
-    minInstances: 1
-    maxInstances: 4
-    targetCPUPercent: 60
-    targetMemoryPercent: 60
+  # scaling:
+  #   minInstances: 1
+  #   maxInstances: 4
+  #   targetCPUPercent: 60
+  #   targetMemoryPercent: 60
 version: "1"
