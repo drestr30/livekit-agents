@@ -5,6 +5,9 @@ services:
   # Change this to the path containing your Dockerfile
   rootDir: voice-agent
 
+  name: agent-example
+  runtime: docker
+
   # Free plan is not available for private services
   plan: starter
 
