@@ -1,6 +1,6 @@
 services:
 - type: pserv
-  repo: https://github.com/livekit-examples/agent-deployment
+  repo: https://github.com/drestr30/livekit-agents
 
   # Change this to the path containing your Dockerfile
   rootDir: voice-agent
