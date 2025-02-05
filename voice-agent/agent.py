@@ -16,7 +16,7 @@ import numpy as np
 from typing import Annotated
 
 
-load_dotenv(dotenv_path=".env.local")
+load_dotenv(dotenv_path=".env")
 logger = logging.getLogger("voice-agent")
 
 
