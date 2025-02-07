@@ -1,0 +1,8 @@
+{
+    "trunk": {
+      "name": "Twilio inbound trunk",
+      "allowed_addresses": [
+        "168.86.128.0/18"
+      ]
+    }
+  }
